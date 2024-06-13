@@ -100,25 +100,25 @@
       <h2>Algunas de las tecnologías con las que trabajo:</h2>
       <div class="icon-grid">
         <div class="icon-cell">
-          <img height="40" width="40" src="icons/angular.svg" alt="Icon 1"/>
+          <img height="40" width="40" src="icons/angular.svg" alt="Angular icon"/>
         </div>
         <div class="icon-cell">
-          <img height="40" width="40" src="icons/react.svg" alt="Icon 2"/>
+          <img height="40" width="40" src="icons/react.svg" alt="React icon"/>
         </div>
         <div class="icon-cell">
-          <img height="40" width="40" src="icons/js.svg" alt="Icon 3"/>
+          <img height="40" width="40" src="icons/js.svg" alt="Javascript icon"/>
         </div>
         <div class="icon-cell">
-          <img height="40" width="40" src="icons/ts.svg" alt="Icon 4"/>
+          <img height="40" width="40" src="icons/ts.svg" alt="Typescript icon"/>
         </div>
         <div class="icon-cell">
-          <img height="40" width="40" src="icons/node.svg" alt="Icon 5"/>
+          <img height="40" width="40" src="icons/node.svg" alt="Node icon"/>
         </div>
         <div class="icon-cell">
-          <img height="40" width="40" src="icons/express.png" alt="Icon 6"/>
+          <img height="40" width="40" src="icons/express.png" alt="Express icon"/>
         </div>
         <div class="icon-cell">
-          <img height="40" width="40" src="icons/css.svg" alt="Icon 7"/>
+          <img height="40" width="40" src="icons/css.svg" alt="Css icon"/>
         </div>
       </div>
     </div>
