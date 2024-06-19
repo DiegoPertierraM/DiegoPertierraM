@@ -2,7 +2,7 @@
   <img src="profile.svg" style="width: 100%;" alt="Welcome image">
 </div>
   <article style="width: 100%; display: flex; gap: 0.5rem; justify-content: center; align-items: center; margin-top: 2rem;">
-    <img src="https://github-readme-stats.vercel.app/api?username=DiegoPertierraM&show_icons=true&theme=buefy" alt="Github stats" style="display: inline-block;"/>
+    <img style="width: 50%%;" src="https://github-readme-stats.vercel.app/api?username=DiegoPertierraM&show_icons=true&theme=buefy" alt="Github stats" style="display: inline-block;"/>
     <div style="width: 30%; display: inline-block; border: 0.1px solid grey; padding-inline: 0.5rem; border-radius: 0.5rem;">
       <h3 style="text-decoration: underline;">Contact</h3>
       <p><strong>Email:</strong> diegopmenendez@gmail.com</p>
