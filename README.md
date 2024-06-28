@@ -2,7 +2,6 @@
   <img src="profile.svg" style="width: 100%;" alt="Welcome image">
 </div>
 <article style="width: 100%; display: flex; gap: 0.5rem; justify-content: center; align-items: flex-start; margin-top: 2rem;">
-  <img style="flex: 1;" src="https://github-readme-stats.vercel.app/api?username=DiegoPertierraM&show_icons=true&theme=buefy" alt="Github stats" />
   <div style="flex: 1; display: flex; flex-direction: column; border: 0.1px solid grey; padding: 0.5rem; border-radius: 0.5rem;">
     <h3 style="text-decoration: underline;">Contact</h3>
     <p><strong>Email:</strong> diegopmenendez@gmail.com</p>
