@@ -7,7 +7,7 @@
     <p><strong>Email:</strong> diegopmenendez@gmail.com</p>
     <p><strong>LinkedIn:</strong> https://www.linkedin.com/in/diego-pertierra-menendez</p>
     <h3 style="text-decoration: underline;">Languages</h3>
-    <p>Spanish and English</p>
+    <p>Spanish (native) and English (C2 Proficiency CEFR)</p>
     <h3 style="text-decoration: underline;">Hobbies</h3>
     <p>Chess &#9822;, animal biology &#129428; and technology &#128187;</p>
   </div>
