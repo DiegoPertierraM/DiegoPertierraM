@@ -6,7 +6,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoPertierraM&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
 </div>
 <div align='center'>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=2000&color=be4bc8&center=true&random=true&width=600&height=100&lines=Fullstack+Developer;Keep+coding;Good+software,+like+wine,+takes+time;Talk+is+cheap.+Show+me+the+code" alt="Typing SVG"/>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=2000&color=be4bc8&center=true&random=true&width=600&height=100&lines=Turning+coffee+into+software;Don't+lie,+nobody+reads+documentation;Good+software,+like+wine,+takes+time;Talk+is+cheap.+Show+me+the+code" alt="Typing SVG"/>
   </a>
 </div>
 
@@ -18,7 +18,7 @@
 ## **About me**
 
 - I'm a multimedia designer turned programmer &#57615;.
-- I love animals &#129428;, tinkering with technology &#128187;, and I'm currently getting into robotics &#129302;.
+- I love animals &#129428;, playing sports &#127936; or videogames &#127918; from time to time , and I'm currently getting into robotics &#129302;.
 - I love discussing code with a cold beer in my hand &#127867;.
 
 ## Contact me
