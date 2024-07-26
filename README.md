@@ -5,18 +5,25 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DiegoPertierraM&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoPertierraM&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
 </div>
-<article style="width: 100%; display: flex; gap: 0.5rem; justify-content: center; align-items: flex-start; margin-top: 2rem;">
-  <div style="flex: 1; display: flex; flex-direction: column; border: 0.1px solid grey; padding: 0.5rem; border-radius: 0.5rem;">
-    <h3 style="text-decoration: underline;">Contact</h3>
-    <p><strong>Email:</strong> diegopmenendez@gmail.com</p>
-    <p><strong>LinkedIn:</strong> https://www.linkedin.com/in/diego-pertierra-menendez</p>
-    <h3 style="text-decoration: underline;">Languages</h3>
-    <p>Spanish (native) and English (C2 Proficiency CEFR)</p>
-    <h3 style="text-decoration: underline;">Hobbies</h3>
-    <p>Chess &#9822;, animal biology &#129428; and technology &#128187;</p>
-  </div>
-</article>
+<div align='center'>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=2000&color=be4bc8&center=true&random=true&width=600&height=100&lines=Fullstack+Developer;Keep+coding;Good+software,+like+wine,+takes+time;Talk+is+cheap.+Show+me+the+code" alt="Typing SVG"/>
+  </a>
+</div>
+
+## Languages
+
+- Spanish (native).
+- English (C2 Proficiency CEFR).
+
+## **About me**
+
+- I'm a multimedia designer turned programmer &#57615;.
+- I love animals &#129428;, tinkering with technology &#128187;, and I'm currently getting into robotics &#129302;.
+- I love discussing code with a cold beer in my hand &#127867;.
+
 ## Contact me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-pertierra-menendez/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(mailto:diegopmenendez@gmail.com)
 [![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](#contact-me)
+
