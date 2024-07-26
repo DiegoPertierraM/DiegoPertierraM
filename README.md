@@ -6,7 +6,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoPertierraM&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
 </div>
 <div align='center'>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=24&duration=3000&pause=2000&color=be4bc8&center=true&random=true&width=600&height=100&lines=Turning+coffee+into+software;Don't+lie,+nobody+reads+documentation;Good+software,+like+wine,+takes+time;Talk+is+cheap.+Show+me+the+code" alt="Typing SVG"/>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=38&duration=3000&pause=2000&color=be4bc8&center=true&random=true&width=600&height=100&lines=Turning+coffee+into+software;Don't+lie,+nobody+reads+documentation;Good+software,+like+wine,+takes+time;Talk+is+cheap.+Show+me+the+code" alt="Typing SVG"/>
   </a>
 </div>
 
