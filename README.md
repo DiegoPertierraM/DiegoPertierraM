@@ -16,3 +16,7 @@
     <p>Chess &#9822;, animal biology &#129428; and technology &#128187;</p>
   </div>
 </article>
+## Contact me
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-pertierra-menendez/)
+[![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](#contact-me)
