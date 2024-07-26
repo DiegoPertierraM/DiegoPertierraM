@@ -17,7 +17,7 @@
 
 ## **About me**
 
-- I'm a multimedia designer turned programmer &#57615;.
+- I'm a multimedia designer turned programmer &#128187;.
 - I love animals &#129428;, playing sports &#127936; or videogames &#127918; from time to time , and I'm currently getting into robotics &#129302;.
 - I love discussing code with a cold beer in my hand &#127867;.
 
